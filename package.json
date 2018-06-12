@@ -2,10 +2,15 @@
   "name": "Projet-Pro",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "repository": "https://github.com/ShamShams/Projet-Pro.git",
   "author": "sremtoula@simplon.co <sremtoula@simplon.co>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "pg": "^7.4.3"
   }
 }
