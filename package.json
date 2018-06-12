@@ -1,0 +1,11 @@
+{
+  "name": "Projet-Pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShamShams/Projet-Pro.git",
+  "author": "sremtoula@simplon.co <sremtoula@simplon.co>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
